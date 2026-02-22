@@ -1,1 +1,1 @@
-print ("Hellow mate!S")
+print("hellow yooo")
